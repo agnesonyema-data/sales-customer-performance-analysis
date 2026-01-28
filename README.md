@@ -3,6 +3,16 @@
 An end-to-end analysis of retail sales and customer data to uncover performance trends and key insights using Excel.The project demonstrates core data analytics skills including data cleaning, exploratory analysis and data visualisation. 
 ## Dataset
 This dataset contains 9800 order-level sales data (Superstore dataset from Kaggle) including customer details, product categories, sales and order dates from 2015-2018.
+## Data Structure
+The analysis is contained in a single Excel workbook with clearly separated sheets:
+- Raw_Data – Original dataset (unchanged)
+- Cleaned_Data – Cleaned and transformed data used for analysis
+- Cleaning_Log – Documentation of all cleaning steps performed
+- Data_Dictionary – Description of all dataset fields
+- Business_Questions - Questions answered by the analysis
+- Pivot_Analysis – Pivot tables used for analysis
+- Dashboard - Visual summary of key findings
+- Insights – Summary of key findings and business insights
 ## Tools Used
 - Microsoft Excel
 - Pivot Tables
