@@ -39,7 +39,7 @@ Pivot tables and charts were created to support analysis, including:
 ## Key Insights
 - There has been a steady growth in sales over the years.
 - There has been a fall in total sales in May but a rise in January sales.
-- The technology category has contributed the mist to sales over the last four years.
+- The technology category has contributed the most to sales over the last four years.
 ## Key Takeaways
 This project highlights my ability to:
 - Work with real-world datasets
